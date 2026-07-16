@@ -1,0 +1,25 @@
+{
+  "launcherVersion": "1.0.0",
+  "minecraftVersion": "1.21.8",
+  "fabricLoaderVersion": "0.17.2",
+  "fabricInstallerVersion": "1.1.3",
+
+  "server": {
+    "name": "Bloody Night in Middle Earth",
+    "ip": "localhost",
+    "port": 25565
+  },
+
+  "launcher": {
+    "minimumJavaVersion": 21,
+    "checkUpdates": true
+  },
+
+  "news": [
+    {
+      "title": "Bienvenue",
+      "content": "Bienvenue sur Bloody Night in Middle Earth."
+    }
+  ],
+
+  "mods": []
