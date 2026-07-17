@@ -2,7 +2,7 @@
   "launcherVersion": "1.0.0",
 
   "minecraftVersion": "1.21.8",
-  "id":"fabric-loader-0.19.3-1.21.8"
+  "id":"fabric-loader-0.19.3-1.21.8",
   "fabricInstallerVersion": "1.1.3",
 
   "server": {
