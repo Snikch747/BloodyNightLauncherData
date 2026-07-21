@@ -20,8 +20,8 @@
   "java": {
     "version": 21,
     "distribution": "Temurin",
-    "downloadUrl": "",
-    "archiveName": "OpenJDK21.zip"
+    "downloadUrl": "https://github.com/adoptium/temurin21-binaries/releases/latest/download/OpenJDK21U-jre_x64_windows_hotspot.zip",
+    "archiveName": "OpenJDK21U-jre_x64_windows_hotspot.zip"
   },
 
   "news": [
